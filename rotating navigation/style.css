@@ -102,33 +102,4 @@ nav ul li i {
 
 nav ul li + li {
   margin-left: 15px;
-  transform: translateX(-150%);
-}
-
-nav ul li + li + li {
-  margin-left: 30px;
-  transform: translateX(-200%);
-}
-
-.content {
-  max-width: 1000px;
-  margin: 50px auto;
-}
-
-.content h1 {
-  margin: 0;
-}
-
-.content small {
-  color: #555;
-  font-style: italic;
-}
-
-.content p {
-  color: #333;
-  line-height: 1.5;
-}
-
-.content img {
-  max-width: 100%;
-}
+  transform: trans
